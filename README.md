@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jeevith2004
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Jeevith
+- 👀 I’m a Data Science Undergrad with strong passion for uncovering insights through data.
+- 🌱My Expertise lies in leveraging tools like SQL,python,Excel,Power BI,R.
+- Currently Working on Projects
   
 
 <!---
